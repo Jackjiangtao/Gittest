@@ -1,0 +1,10 @@
+debug/main.o
+debug/gitwarp.o
+debug/qgitdiff.o
+debug/qgitdiffdelta.o
+debug/qgitdifffile.o
+debug/annotatedcommit.o
+debug/buffer.o
+debug/pathcodec.o
+debug/remotecallbacks.o
+debug/strarray.o

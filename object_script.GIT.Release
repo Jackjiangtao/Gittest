@@ -1,0 +1,10 @@
+release/main.o
+release/gitwarp.o
+release/qgitdiff.o
+release/qgitdiffdelta.o
+release/qgitdifffile.o
+release/annotatedcommit.o
+release/buffer.o
+release/pathcodec.o
+release/remotecallbacks.o
+release/strarray.o
